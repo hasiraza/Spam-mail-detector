@@ -35,7 +35,7 @@ Thumbs.db
 .idea/
 
 # Model artifacts (optional: remove if you want to version them)
-*.pkl
+
 
 # Testing / coverage
 .coverage

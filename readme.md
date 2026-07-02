@@ -1,4 +1,4 @@
-````markdown
+
 # 📧 Spam Mail Detector
 
 A Machine Learning powered spam email detection web application built with Python, Scikit-learn, and Streamlit.
